@@ -10,9 +10,9 @@
 
 #### I graduated as Software Developer from [Generation Thailand](https://thailand.generation.org).I have a knowledge base on MERN Stack.
 
-#### Front-End (HTML, CSS,TypeScript, JavaScript, React.js, React.ts), 
+#### Front-End (HTML, CSS, TypeScript, JavaScript, React.js, React.ts), 
 #### Back-End (NodeJS, Express, Koa, Golang), Database (MongoDB, SQL ).
-#### Version Control (Git,GitHub,Bitbucket)
+#### Version Control (Git, GitHub, Bitbucket)
 
 #### I have a particular interest in blockchain technology and I have experience in investing ICO, IDO, Defi, Web3, Crypto Currency more than 5 years. 
 
